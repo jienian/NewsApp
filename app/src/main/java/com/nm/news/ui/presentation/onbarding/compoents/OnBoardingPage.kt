@@ -16,6 +16,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import com.nm.news.R
+import com.nm.news.ui.presentation.onbarding.Page
 
 @Composable
 fun OnBoardingPage(
